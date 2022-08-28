@@ -1,0 +1,1 @@
+./ethminer-m1 -P stratum://0x27DC4A17C23A22520A395457202CAEAE9BFCDAC0.MBP@asia2.ethermine.org:4444
